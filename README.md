@@ -1,6 +1,6 @@
 # Hello, I'm Fahad Malik 👋
 
-I'm a passionate app developer with a growing curiosity for web development. 📱💻 Currently a computer science student at Air University, Islamabad, I'm on a journey to explore the limitless possibilities of coding and create meaningful digital experiences.
+I'm a passionate app developer with a growing curiosity for web development. 💻 Currently a computer science student at Air University, Islamabad, I'm on a journey to explore the limitless possibilities of coding and create meaningful digital experiences.
 
 ## 📱 App Development
 - Proficient in mobile app development with a focus on user-friendly and visually appealing applications.
