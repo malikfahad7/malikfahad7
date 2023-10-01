@@ -13,5 +13,5 @@ I'm a passionate app developer with a growing curiosity for web development. �
 ## 🚀 Let's Connect
 I'm always open to collaboration and learning from fellow developers. Feel free to reach out for projects, discussions, or simply to connect and share knowledge. Let's code the future together!
 
-📬 You can reach me at malikxfahad315990@gmail.com
-Thanks for attention!
+## 📬 You can reach me at malikxfahad315990@gmail.com
+Thanks for your attention!
