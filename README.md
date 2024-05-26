@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fahad Malik</h1>
-<h3 align="center">App Developer | Web Developer | Full-Stack Expertise</h3>
+<h1 align="center">Hi , I'm Fahad Malik</h1>
+<h3 align="center">App Developer | Web Developer | Graphic Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240320/ourlarge/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png">
 
 - 🌱 I’m currently learning **Jetpack-Compose, Next.JS**
@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/fahadmalik48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fahadmalik48" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fahad-malik-6774272b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fahadmalik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
