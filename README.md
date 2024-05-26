@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240320/ourlarge/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png">
 
 
-- 🌱 I’m currently learning **Jetpack-Compose, Next.JS**
+-  I’m currently learning **Jetpack-Compose, Next.JS**
 
-- 📫 How to reach me **malikxfahad315990@gmail.com**
+-  Reach me : **malikxfahad315990@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
