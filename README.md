@@ -46,8 +46,9 @@
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=325 src="https://git-hub-streak-stats.vercel.app?user=malikfahad7&theme=shadow-orange&date_format=n%2Fj%5B%2FY%5D&card_width=600" alt="streak stats"/>
+  <img width=325 src="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=malikfahad7&theme=swift&date_format=n%2Fj%5B%2FY%5D&card_width=500" alt="streak stats"/>
 </div>
+https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=malikfahad7&theme=swift&date_format=n%2Fj%5B%2FY%5D&card_width=500
 <br/><br/>
 
 <hr/>
