@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🟠 I’m currently working on **Orbit - Security Solutions Application**
+ 🚀 I’m currently working on **Orbit - Security Solutions Application**
  
- 🟠 I’m currently learning **React Native**
+ 🔸 I’m currently learning **React Native**
  
- 🟠 I have experience in **Flutter** for mobile app development
+ 🔸 I have experience in **Flutter** for mobile app development
 
- 🟠 I also know some **Basics of Web Development**
+ 🔸 I also know some **Basics of Web Development**
 
  </div>
  
