@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🟠 I’m currently working on **Orbit - Security Solutions Application**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🟠 I’m currently learning **React Native**
+ 
+ 🟠 I have experience in **Flutter** for mobile app development
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🟠 I also know some **Basics of Web Development**
 
  </div>
  
