@@ -1,9 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=malikfahad7.Fahad Malik" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=malikfahad7.malikfahad7" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fahad+Malik!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FF914C&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fahad+Malik!;" />
 </h1>
-
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
