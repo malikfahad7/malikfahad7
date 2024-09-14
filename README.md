@@ -46,7 +46,7 @@
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://git-hub-streak-stats.vercel.app?user=malikfahad7&theme=swift&date_format=n%2Fj%5B%2FY%5D&card_width=500" alt="streak stats"/>
+  <img width=500 src="https://git-hub-streak-stats.vercel.app?user=malikfahad7&theme=swift&date_format=n%2Fj%5B%2FY%5D&card_width=500" alt="streak stats"/>
 </div>
 <br/><br/>
 
