@@ -11,7 +11,7 @@
  
  🚀 I’m currently working on **Orbit - Security Solutions Application**
  
- 🔸 I’m currently learning **React Native**
+ 🔸 I’m currently learning **JetPack Compose**
  
  🔸 I have experience in **Flutter** for mobile app development
 
